@@ -27,4 +27,4 @@ jobs:
         with:
           # 👇 Chromatic projectToken, refer to the manage page to obtain it.
           projectToken: ${{ secrets.CHROMATIC_PROJECT_TOKEN }}
-          exitZeroOnChanges: false # 👈 Fail if we have changes. we can retry the build once resolved
+          exitZeroOnChanges: true
