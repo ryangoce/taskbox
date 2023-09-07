@@ -1,6 +1,7 @@
 
 <template>
   <div>
+    <h1>Nathan here</h1>
     <div v-if="error" class="page lists-show">
       <div class="wrapper-message">
         <span class="icon-face-sad" />
