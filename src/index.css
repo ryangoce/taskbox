@@ -118,7 +118,7 @@ input[type="text"],
 input[type="email"],
 input[type="password"],
 textarea {
-  font-size: 20px;
+  font-size: 14px;
   line-height: 20px;
   font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: 400;
